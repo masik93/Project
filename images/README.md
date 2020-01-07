@@ -129,7 +129,7 @@
 Диаграмма последовательности основных вариантов использования представлена ниже:
 
 
-![Диаграмма последовательности](https://github.com/masik93/Project/blob/master/images/1)SequenceLogin%2BaddЗаказ%2BCheck.jpg)
+![Д1](https://github.com/masik93/Project/blob/master/images/1)SequenceLogin%2BaddЗаказ%2BCheck.jpg)
 
 
 
