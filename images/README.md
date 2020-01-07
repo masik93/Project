@@ -129,7 +129,7 @@
 ### 3. Диаграмма последовательности<a name="3"></a>
 Диаграмма последовательности основных вариантов использования представлена ниже:
 
-![Диаграмма последовательности](https://github.com/masik93/Project/blob/master/images/1)SequenceLogin%2BaddЗаказ%2BCheck.png)
+![Диаграмма последовательности](images/1)SequenceLogin+addЗаказ+Check.png)
 
 
 
