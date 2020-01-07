@@ -39,16 +39,28 @@
   1. Графический интерфейс пользователя должен обеспечиваться встроенными в Windows системными библиотеками Windows API.
   
  #### 2.2 Интерфейс пользователя
+ 
  - Окно авторизации
+ 
  ![Image alt](https://github.com/masik93/Project/blob/master/images/0.png?raw=true "Optional Title")
+ 
  - Окно реализации товаров
+ 
  ![Image alt](https://github.com/masik93/Project/blob/master/images/1.png?raw=true "Optional Title")
  
+ - Окно формирования чека
+ 
  ![Image alt](https://github.com/masik93/Project/blob/master/images/2.png?raw=true "Optional Title")
+ 
  - Окно просмотра детальной информации о товаре
+ 
  ![Image alt](https://github.com/masik93/Project/blob/master/images/3.png?raw=true "Optional Title")
  
+ - Окно просмотра детальной информации о пользователях программы
+ 
  ![Image alt](https://github.com/masik93/Project/blob/master/images/4.png?raw=true "Optional Title")
+ 
+  - Окно просмотра детальной информации о пользователях программы
  
  ![Image alt](https://github.com/masik93/Project/blob/master/images/5.png?raw=true "Optional Title")
  
