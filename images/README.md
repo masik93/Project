@@ -136,14 +136,17 @@
 
 ### 4. Диаграммы состояний<a name="4"></a>
 
-- Окно "Главная"
-  https://github.com/masik93/Project/blob/master/images/состояния%20Главная.png
+##### 4.1  Окно "Главная"<a name="4.1"></a> 
+![Главная](https://github.com/masik93/Project/blob/master/images/состояния%20Главная.png)
+
 - Окно удаления аккаунта
   https://github.com/masik93/Project/blob/master/images/состояние%20DelClient.png
 - Окно добавления препарата.
   https://github.com/masik93/Project/blob/master/images/состояния%20AddPrep.png
 - Окно редактирования данных поставщика
   https://github.com/masik93/Project/blob/master/images/состояния%20EditПоставщиков.png
+
+
 ##### 4.1 Добавление в корзину<a name="4.1"></a> 
 
 ![Add в корзину](https://github.com/Nemoguchev/Magazin/blob/master/documentation/Diagrams/State/StateДобавлениеВКорзину.jpg)
