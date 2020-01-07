@@ -128,11 +128,11 @@
 
 ### 3. Диаграмма последовательности<a name="3"></a>
 Диаграмма последовательности основных вариантов использования представлена ниже:
-
 ![Диаграмма последовательности](https://github.com/masik93/Project/blob/master/images/1)SequenceLogin%2BaddЗаказ%2BCheck.png)
-(https://github.com/masik93/Project/blob/master/images/2)SequenceAdd%2BDel%20препарат.PNG)
-(https://github.com/masik93/Project/blob/master/images/3)SequenceAdd%2BDel%20аккаунт.PNG)
-(https://github.com/masik93/Project/blob/master/images/4)SequenceAdd%2BDel%20поставщиков.PNG)
+![Диаграмма последовательности](https://github.com/masik93/Project/blob/master/images/2)SequenceAdd%2BDel%20препарат.PNG)
+![Диаграмма последовательности](https://github.com/masik93/Project/blob/master/images/3)SequenceAdd%2BDel%20аккаунт.PNG)
+![Диаграмма последовательности](https://github.com/masik93/Project/blob/master/images/4)SequenceAdd%2BDel%20поставщиков.PNG)
+
 
 ### 4. Диаграммы состояний<a name="4"></a>
 
