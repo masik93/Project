@@ -27,12 +27,12 @@ CheckWindow::CheckWindow(double sum, QString checlId, QList<Preparation> * lstPr
         ui->lblDate_2->setText(queryGetCheckDate.value(recordGetCheckDate.indexOf("date")).toString());
     }
     
-    model = new QStandardItemModel(lstPrep->size(),4);
+    model = new QStandardItemModel(lstPrep->size(),3);
     
     model->setHeaderData(0,Qt::Horizontal,"Наименование\nпрепарата");
     model->setHeaderData(1,Qt::Horizontal,"Количество");
     model->setHeaderData(2,Qt::Horizontal,"Цена за ед.");
-    model->setHeaderData(3,Qt::Horizontal,"описание");
+    //model->setHeaderData(3,Qt::Horizontal,"описание");
 
     
     for (int row = 0; row < lstPrep->size(); ++row)
@@ -43,9 +43,9 @@ CheckWindow::CheckWindow(double sum, QString checlId, QList<Preparation> * lstPr
         model->setItem(row, 1, item2);
         QStandardItem *item3 = new QStandardItem((lstPrep->at(row).getPrice()));
         model->setItem(row, 2, item3);
-        QStandardItem *item4 = new QStandardItem((lstPrep->at(row).getInfo()));
+        /*QStandardItem *item4 = new QStandardItem((lstPrep->at(row).getInfo()));
         model->setItem(row, 3, item4);
-
+*/
 
     }
     
@@ -54,7 +54,7 @@ CheckWindow::CheckWindow(double sum, QString checlId, QList<Preparation> * lstPr
     ui->tableView->setColumnWidth(0, 170);
     ui->tableView->setColumnWidth(1, 100);
     ui->tableView->setColumnWidth(2, 100);
-    ui->tableView->setColumnWidth(3,150);
+   // ui->tableView->setColumnWidth(3,150);
 }
 
 CheckWindow::~CheckWindow()
