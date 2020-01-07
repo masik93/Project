@@ -40,7 +40,7 @@
   
  #### 2.2 Интерфейс пользователя
  
- ![Image alt](https://github.com/masik93/laboratornaya2/blob/master/image/top.7f66cff1.png?raw=true "Optional Title")
+ ![Image alt](https://https://github.com/masik93/Project/blob/master/images/0.png?raw=true "Optional Title")
  
  Рисунок 1. Главное окно программы
  
