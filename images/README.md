@@ -128,10 +128,18 @@
 ### 3. Диаграмма последовательности<a name="3"></a>
 Диаграмма последовательности основных вариантов использования представлена ниже:
 
+### 3.1 Действия в окне "Главная"<a name="3.1"></a>
 ![Диаг1](https://github.com/masik93/Project/blob/master/images/SequenceMain.png)
+
+### 3.2 Действия в окне с препаратами<a name="3.2"></a>
 ![Диаг2](https://github.com/masik93/Project/blob/master/images/SequenceAddDelPrep.PNG)
+
+### 3.3 Действия в окне "Клиент"<a name="3.3"></a>
 ![Диаг3](https://github.com/masik93/Project/blob/master/images/SequenceAddDel%20Acc.PNG)
+
+### 3.4 Действия в окне "Поставщик"<a name="3"></a>
 ![Диаг4](https://github.com/masik93/Project/blob/master/images/SequenceAddDel%20Postav.PNG)
+
 ### 4. Диаграммы состояний<a name="4"></a>
 
 ##### 4.1  Окно "Главная"<a name="4.1"></a> 
