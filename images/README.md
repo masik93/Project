@@ -138,23 +138,16 @@
 ##### 4.1  Окно "Главная"<a name="4.1"></a> 
 ![Главная](https://github.com/masik93/Project/blob/master/images/состояния%20Главная.png)
 
-- Окно удаления аккаунта
-  https://github.com/masik93/Project/blob/master/images/состояние%20DelClient.png
-- Окно добавления препарата.
-  https://github.com/masik93/Project/blob/master/images/состояния%20AddPrep.png
-- Окно редактирования данных поставщика
-  https://github.com/masik93/Project/blob/master/images/состояния%20EditПоставщиков.png
+##### 4.2 Окно удаления аккаунта<a name="4.2"></a>
+![удаление аккаунта](https://github.com/masik93/Project/blob/master/images/состояние%20DelClient.png)
+
+##### 4.3 Окно добавления препарата<a name="4.3"></a>
+![добавление препарата](https://github.com/masik93/Project/blob/master/images/состояния%20AddPrep.png)
+
+##### 4.4 Окно редактирования данных поставщика<a name="4.3"></a>
+![добавление поставщика](https://github.com/masik93/Project/blob/master/images/состояния%20EditПоставщиков.png)
 
 
-##### 4.1 Добавление в корзину<a name="4.1"></a> 
-
-![Add в корзину](https://github.com/Nemoguchev/Magazin/blob/master/documentation/Diagrams/State/StateДобавлениеВКорзину.jpg)
-##### 4.2 Создание заказа<a name="4.2"></a>
-
-![создание заказа](https://github.com/Nemoguchev/Magazin/blob/master/documentation/Diagrams/State/StateСозданиеЗаказа.jpg)
-##### 4.3 Действия на панели инструментов<a name="4.3"></a>
-
-![Панель инструментов](https://github.com/Nemoguchev/Magazin/blob/master/documentation/Diagrams/State/StateПанель%20Инстр.jpg)
 ### 5. Диаграмма классов<a name="5"></a>
 
 ![Диаграмма классов](https://github.com/Nemoguchev/Magazin/blob/master/documentation/Diagrams/class/ClassDiagram1.jpg)
