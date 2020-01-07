@@ -42,6 +42,16 @@
  
  ![Image alt](https://github.com/masik93/Project/blob/master/images/0.png?raw=true "Optional Title")
  
+ ![Image alt](https://github.com/masik93/Project/blob/master/images/1.png?raw=true "Optional Title")
+ 
+ ![Image alt](https://github.com/masik93/Project/blob/master/images/2.png?raw=true "Optional Title")
+ 
+ ![Image alt](https://github.com/masik93/Project/blob/master/images/3.png?raw=true "Optional Title")
+ 
+ ![Image alt](https://github.com/masik93/Project/blob/master/images/4.png?raw=true "Optional Title")
+ 
+ ![Image alt](https://github.com/masik93/Project/blob/master/images/5.png?raw=true "Optional Title")
+ 
  Рисунок 1. Главное окно программы
  
  Главное окно содержит две основные кнопки Созздать и Открыть. 
