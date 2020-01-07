@@ -129,9 +129,9 @@
 Диаграмма последовательности основных вариантов использования представлена ниже:
 
 ![Диаг1](https://github.com/masik93/Project/blob/master/images/SequenceMain.png)
-![Диаг2]https://github.com/masik93/Project/blob/master/images/2)SequenceAdd%2BDel%20препарат.PNG
-![Диаг3]https://github.com/masik93/Project/blob/master/images/3)SequenceAdd%2BDel%20аккаунт.PNG
-![Диаг4]https://github.com/masik93/Project/blob/master/images/4)SequenceAdd%2BDel%20поставщиков.PNG
+![Диаг2](https://github.com/masik93/Project/blob/master/images/2)SequenceAdd%2BDel%20препарат.PNG)
+![Диаг3](https://github.com/masik93/Project/blob/master/images/3)SequenceAdd%2BDel%20аккаунт.PNG)
+![Диаг4](https://github.com/masik93/Project/blob/master/images/4)SequenceAdd%2BDel%20поставщиков.PNG)
 ### 4. Диаграммы состояний<a name="4"></a>
 
 ##### 4.1  Окно "Главная"<a name="4.1"></a> 
