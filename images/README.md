@@ -145,7 +145,7 @@
 ##### 4.1  Окно "Главная"<a name="4.1"></a> 
 ![Главная](https://github.com/masik93/Project/blob/master/images/состояния%20Главная.png)
 
-##### 4.2 Окно удаления аккаунта<a name="4.2"></a>
+##### 4.2 Окно удаления аккаунта пользователя<a name="4.2"></a>
 ![удаление аккаунта](https://github.com/masik93/Project/blob/master/images/состояние%20DelClient.png)
 
 ##### 4.3 Окно добавления препарата<a name="4.3"></a>
